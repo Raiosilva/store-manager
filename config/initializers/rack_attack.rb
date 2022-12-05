@@ -1,4 +1,4 @@
-class Attack::Rack
+class Rack::Attack
     Rack::Attack.cache.store = ActiveSupport::Cache::MemoryStore.new
 
     # Allow all local traffic
