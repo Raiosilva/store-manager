@@ -1,24 +1,10 @@
-# README
+# Andamento
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+API para gerenciar de Store para o User. Este projeto contará com:
+- Autenticação com JWT + Knock
+- Paginação
+- Cors
+- Rack-attack
+- Teste com Rspec
+- Versionamento
+- Postgres
